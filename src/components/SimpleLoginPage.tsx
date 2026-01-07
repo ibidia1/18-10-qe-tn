@@ -11,7 +11,7 @@ import {
   Mail,
   Lock
 } from 'lucide-react';
-import brainIllustration from 'assets/image-aistudio.png';
+import brainIllustration from '../assets/image-aistudio.png';
 
 interface SimpleLoginPageProps {
   onNavigate: (page: string) => void;
